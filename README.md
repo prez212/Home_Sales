@@ -5,4 +5,4 @@ In this repository we use our knowledge of SparkSQL to determine key metrics abo
 
 
 
--  To run: Please open in google.colab
+-  To run: Please open "Home_Sales_colab.ipynb' in google.colab
